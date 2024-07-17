@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1625724353 source:c:\users\asus\documents\codeblocks\game project\main.cpp
+	<iostream>
+	<stdlib.h>
+	<graphics.h>
+	<windows.h>
+	<mmsystem.h>
+
+1625724354 source:d:\codeblocks\game project\main.cpp
+	<iostream>
+	<stdlib.h>
+	<graphics.h>
+	<windows.h>
+	<mmsystem.h>
+
